@@ -1,0 +1,80 @@
+   Kitap Adı : Sarı Yüz
+   Yazar     : R. F. Kuang
+   Fiyat     : Kitapyurdu Fiyatı:   143,00
+
+   Kitap Adı : Engereğin Gözü
+   Yazar     : Zülfü Livaneli
+   Fiyat     : Kitapyurdu Fiyatı:   168,03
+
+   Kitap Adı : Yaşamak
+   Yazar     : Yu Hua
+   Fiyat     : Kitapyurdu Fiyatı:   125,00
+
+   Kitap Adı : Hapı Yuttuk Eczanesi
+   Yazar     : Mert Arık
+   Fiyat     : Kitapyurdu Fiyatı:   61,30
+
+   Kitap Adı : Bağırmayalım da Ne Yapalım?
+   Yazar     : Hatice Kübra Tongar
+   Fiyat     : Kitapyurdu Fiyatı:   125,00
+
+   Kitap Adı : Gece Yarısı Kütüphanesi
+   Yazar     : Matt Haig
+   Fiyat     : Kitapyurdu Fiyatı:   176,20
+
+   Kitap Adı : Günübirlik Hayatlar
+   Yazar     : Irvin D. Yalom
+   Fiyat     : Kitapyurdu Fiyatı:   175,40
+
+   Kitap Adı : Robonlar 2 / Bir Hayal Operasyonu
+   Yazar     : Mert Arık
+   Fiyat     : Kitapyurdu Fiyatı:   101,70
+
+   Kitap Adı : Robonlar / Bir Kaçış Operasyonu
+   Yazar     : Mert Arık
+   Fiyat     : Kitapyurdu Fiyatı:   74,95
+
+   Kitap Adı : Anne Terliği
+   Yazar     : Anıl Basılı
+   Fiyat     : Kitapyurdu Fiyatı:   90,03
+
+   Kitap Adı : Martin Eden
+   Yazar     : Jack London
+   Fiyat     : Kitapyurdu Fiyatı:   96,18
+
+   Kitap Adı : Saatleri Ayarlama Enstitüsü
+   Yazar     : Ahmet Hamdi Tanpınar
+   Fiyat     : Kitapyurdu Fiyatı:   209,00
+
+   Kitap Adı : Güneşsiz 1: Cehennem Diskosu
+   Yazar     : Jean Christophe Grange
+   Fiyat     : Kitapyurdu Fiyatı:   277,60
+
+   Kitap Adı : Bugün Kalan Hayatımın İlk Günü
+   Yazar     : Maud Ankaoua
+   Fiyat     : Kitapyurdu Fiyatı:   217,50
+
+   Kitap Adı : El Kızı
+   Yazar     : Orhan Kemal
+   Fiyat     : Kitapyurdu Fiyatı:   287,30
+
+   Kitap Adı : Saç Örgüsü
+   Yazar     : Laetitia Colombani
+   Fiyat     : Kitapyurdu Fiyatı:   165,60
+
+   Kitap Adı : Naneyi Yedik Lokantası
+   Yazar     : Mert Arık
+   Fiyat     : Kitapyurdu Fiyatı:   60,34
+
+   Kitap Adı : İnsanlığımı Yitirirken
+   Yazar     : Osamu Dazai
+   Fiyat     : Kitapyurdu Fiyatı:   14,94
+
+   Kitap Adı : Atomik Alışkanlıklar
+   Yazar     : James Clear
+   Fiyat     : Kitapyurdu Fiyatı:   209,99
+
+   Kitap Adı : Yırtıcı Kuşlar Zamanı
+   Yazar     : Ahmet Ümit
+   Fiyat     : Kitapyurdu Fiyatı:   202,04
+
