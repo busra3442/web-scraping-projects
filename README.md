@@ -53,5 +53,16 @@ Not : diğer tüm verilere projemin içindeki top-20-books.txt dosyasından eri�
 
 <img width="430" height="560" alt="Ekran Resmi 2025-08-07 23 44 17" src="https://github.com/user-attachments/assets/2141f231-ffa7-4725-9ebd-6259d4351d81" />
 
+---
+# IMDb Scraping Numpy Projesi 📊
+
+## Proje Hakkında
+Bu proje daha önceden yapmış olduğum IMDb scraping projesinin `numpy` küyüphanesi eklenip sonuç üzerinden analiz yaparak geliştirilmiş halidir.
+Gelişimimi daha net görmek için ayrı dosyalar halinde hazırladım. Veri alanında geliştikçe daha farklı özellikler ekleyceğim.
+
+Not: çıktı örneği ve analizin detayları için proje dosyasının içindeki imdb_top10_numpy.txt dosyasına bakabilirsiniz.
+
+
+
 
 
