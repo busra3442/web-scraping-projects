@@ -1,0 +1,17 @@
+🎬 IMDb Top 10 Film Puanları
+1. The Shawshank Redemption - 9.3
+2. The Godfather - 9.2
+3. The Dark Knight - 9.1
+4. The Godfather Part II - 9.0
+5. 12 Angry Men - 9.0
+6. The Lord of the Rings: The Return of the King - 9.0
+7. Schindler's List - 9.0
+8. Pulp Fiction - 8.8
+9. The Lord of the Rings: The Fellowship of the Ring - 8.9
+10. Il buono, il brutto, il cattivo - 8.8
+
+📊 İstatistikler:
+En yüksek puan: 9.3
+En düşük puan: 8.8
+Ortalama puan: 9.01
+Standart sapma: 0.15
